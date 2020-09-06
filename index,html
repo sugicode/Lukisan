@@ -1,0 +1,20 @@
+ <div class="canvas-stand">
+      <div class="vertical-holds hold-one"></div>
+      <div class="vertical-holds hold-two"></div>
+      <div class="vertical-holds hold-three"></div>
+       <div class="upper-hold"></div>
+        <div class="canvas canvas-one">    
+        </div>
+        <div class="canvas canvas-two">    
+        </div>
+        <div class="canvas canvas-three">    
+        </div>
+        <div class="canvas canvas-four">    
+        </div>
+         <div class="canvas canvas-five">    
+        </div>
+         <div class="canvas canvas-six">    
+        </div>
+        <div class="lower-hold"></div>
+        <div class="lower-hold-two"></div>
+    </div>
